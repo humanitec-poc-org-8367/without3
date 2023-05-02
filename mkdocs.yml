@@ -1,0 +1,7 @@
+site_name: 'without3 Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
